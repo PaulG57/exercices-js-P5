@@ -2,3 +2,36 @@ html {
     height: 100%;
     width: 100%;
 }
+
+body {
+    height: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: rgb(21, 0, 255);
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+}
+
+h3 {
+    margin-top: 30px;
+}
+
+ul {
+    margin-bottom: 50px;
+}
+
+a {
+    color: rgb(21, 0, 255);
+    text-decoration: none;
+    border: 2px solid rgb(21, 0, 255);
+    padding: 10px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 30px;
+}
