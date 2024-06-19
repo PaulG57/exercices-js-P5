@@ -29,8 +29,8 @@ nav ul {
     display: flex;
 }
 
-nav li {
-    margin-right: 0;
+nav ul li {
+    margin-right: 20px;
 }
 
 nav li:last-child {
@@ -61,6 +61,10 @@ section {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }
+
+    nav ul li {
+        margin-right: 0;
     }
 }
 
